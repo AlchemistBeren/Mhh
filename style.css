@@ -21,7 +21,6 @@ button:active{
 
 button{
   margin:relative;
-  padding: 50px;
   cursor: pointer;
   background-color:rgb(82, 47, 171);
   border:10px solid rgb(252, 168, 33);
