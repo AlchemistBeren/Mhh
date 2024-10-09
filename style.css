@@ -7,7 +7,7 @@ body{
   flex-direction: column;
 }
 p {
-  font-size: 30px;
+  font-size: 15px;
   color: rgb(56, 168, 25);
   font-family: JetBrains Mono;
   text-transform: uppercase;
